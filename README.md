@@ -1,6 +1,6 @@
 # ***Hello everyone*** *!**!**!* :wave:
 ## *My name is* Kanstantsin.:leo::sunglasses:
-## *It's been almost a year since I got to know the world of testing and IT. Unexpectedly for himself, he pulled me to him and does not let go:smile:.I am constantly evolving. I am always open to interesting projects and various test tasks.*
+## *I am constantly evolving. I am always open to interesting projects and various test tasks.*
 ## *I approach testing with a genuine interest and desire to use my skills as a person who is passionate about software testing.*
 ## *Always open to exciting proposals, do not hesitate to contact me*:exclamation: :exclamation: :exclamation:
 - [x]   ***Contacts*** :eyes:
